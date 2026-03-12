@@ -23,13 +23,13 @@
 
 1、测试 查询sim信息
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/20260311-141736.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/8d0c4d8a-b610-41c2-b8db-bda9fe70583b" controls crossorigin muted></video>
 
 
 
 2、测试启动sim卡
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/20260311-142005.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/8e1b097f-0718-488e-9d5a-c85500b15586" controls crossorigin muted></video>
 
 ---
 
@@ -39,7 +39,7 @@
 
 1、停用sim测试
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/20260311-135131.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/41c3abd2-76d9-4552-b74b-b4f0ea055f43" controls crossorigin muted></video>
 
 ---
 
