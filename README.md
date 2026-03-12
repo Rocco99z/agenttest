@@ -18,7 +18,12 @@
 
 4、**不具普通用户使用能力**  操作过程与结果输出也不直观，普通用户无法感知。整体来说对平台不熟悉的人没什么帮助
 
-### 测试场景
+### 测试场景🌐 **English** | [中文](./docs/README-zh.md)
+
+👉 <a href="https://alibaba.github.io/page-agent/" target="_blank"><b>🚀 Demo</b></a> | <a href="https://alibaba.github.io/page-agent/docs/introduction/overview" target="_blank"><b>📖 Documentation</b></a> | <a href="https://news.ycombinator.com/item?id=47264138" target="_blank"><b>📢 Join HN Discussion</b></a>
+
+<video id="demo-video" src="https://github.com/user-attachments/assets/a1f2eae2-13fb-4aae-98cf-a3fc1620a6c2" controls crossorigin muted></video>
+
 
 1、测试 查询sim信息
 
