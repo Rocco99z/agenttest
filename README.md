@@ -20,10 +20,6 @@
 
 ### 测试场景🌐 **English** | [中文](./docs/README-zh.md)
 
-👉 <a href="https://alibaba.github.io/page-agent/" target="_blank"><b>🚀 Demo</b></a> | <a href="https://alibaba.github.io/page-agent/docs/introduction/overview" target="_blank"><b>📖 Documentation</b></a> | <a href="https://news.ycombinator.com/item?id=47264138" target="_blank"><b>📢 Join HN Discussion</b></a>
-
-<video id="demo-video" src="https://github.com/user-attachments/assets/a1f2eae2-13fb-4aae-98cf-a3fc1620a6c2" controls crossorigin muted></video>
-
 
 1、测试 查询sim信息
 
@@ -57,19 +53,19 @@
 
 1、sim查询
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/z_sim.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/1d917974-623a-4de3-8e23-5e78baa85d8f" controls crossorigin muted></video>
 
 
 
 2、sim信息和车辆信息联合查询
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/z_lian.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/5783be9f-918c-4bff-97b3-8e0412291f28" controls crossorigin muted></video>
 
 ---
 
 3、新增客户套餐
 
-<video id="demo-video" src="https://solar-1301618848.cos.ap-nanjing.myqcloud.com/video/agent_test/z_taocan.mp4" controls crossorigin muted></video>
+<video id="demo-video" src="https://github.com/user-attachments/assets/29f80342-bee3-430f-900f-bcb92642b793" controls crossorigin muted></video>
 
 ### Demo整体设计架构
 
